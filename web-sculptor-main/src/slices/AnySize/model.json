@@ -1,0 +1,33 @@
+{
+  "id": "services",
+  "type": "SharedSlice",
+  "name": "AnySize",
+  "description": "Services",
+  "variations": [
+    {
+      "id": "default",
+      "name": "Default",
+      "docURL": "...",
+      "version": "initial",
+      "description": "Default",
+      "imageUrl": "",
+      "primary": {
+        "first": {
+          "type": "Text",
+          "config": {
+            "label": "First",
+            "placeholder": ""
+          }
+        },
+        "last": {
+          "type": "Text",
+          "config": {
+            "label": "Last",
+            "placeholder": ""
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

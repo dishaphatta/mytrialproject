@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-gradient {
+    background: radial-gradient(
+    circle at top center,
+    hsla(208, 7%, 46%, 0.4) 0%,
+    hsla(222, 0%, 0%, 0) 50%,
+    hsla(222, 0%, 0%, 0) 100%
+    );
+};
+
+.text-container{
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+}
+
+.text-grid {
+    grid-area: 1 / 1;
+}

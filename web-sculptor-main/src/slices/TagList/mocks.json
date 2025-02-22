@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "so",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": [
+					[
+						"tag_name",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "year",
+							"type": "Text"
+						}
+					],
+					[
+						"tag_color",
+						{
+							"__TYPE__": "FieldContent",
+							"value": "#2170c5",
+							"type": "Color"
+						}
+					]
+				]
+			}
+		]
+	}
+]

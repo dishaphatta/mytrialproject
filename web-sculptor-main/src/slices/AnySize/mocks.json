@@ -1,0 +1,19 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"first": {
+				"__TYPE__": "FieldContent",
+				"value": "adult",
+				"type": "Text"
+			},
+			"last": {
+				"__TYPE__": "FieldContent",
+				"value": "period",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]

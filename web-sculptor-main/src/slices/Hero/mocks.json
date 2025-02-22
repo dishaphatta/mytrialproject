@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"header": {
+				"__TYPE__": "FieldContent",
+				"value": "twenty",
+				"type": "Text"
+			},
+			"subtitle": {
+				"__TYPE__": "FieldContent",
+				"value": "except",
+				"type": "Text"
+			},
+			"last_header": {
+				"__TYPE__": "FieldContent",
+				"value": "safe",
+				"type": "Text"
+			},
+			"get_started_button": {
+				"__TYPE__": "FieldContent",
+				"value": "felt",
+				"type": "Text"
+			},
+			"get_started_button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://google.com"
+				}
+			}
+		},
+		"items": []
+	}
+]
